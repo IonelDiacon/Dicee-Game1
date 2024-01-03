@@ -1,0 +1,7 @@
+var object={
+  objectnumber:(Math.floor(Math.random *9)+1)
+  objectmemory: "infinit"
+  objectnivele:["1","2","3"]
+}
+
+
